@@ -1,0 +1,5 @@
+CNN/data/KMINST/raw/
+CNN/output/predictions/
+Object_Detection/images/
+Object_Detection/output/
+Pre-Trained_Networks/images/
